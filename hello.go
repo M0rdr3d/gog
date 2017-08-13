@@ -1,7 +1,7 @@
 package main
 
 import ("fmt"
-		"github.com/M0rdr3d/stringutil"
+		"github.com/golang/example/stringutil"
 )
 func main(){
 	fmt.Printf("Hello World Go!\n")
